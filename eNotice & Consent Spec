@@ -1,34 +1,30 @@
-This is a wiki page for discussion. (not official group specification)  Please join the call and request access for the latest draft
-
 Status of this document
 
 Outlined Draft v0.4.5
 
-This specification references and contributes to multiple work efforts, the record fields are from ISO/IEC 29100 Privacy and Security Techniques, which is an open and free ISO/IEC standard. 
+This eLectronic notice and consent specificaiton is apart of the 0PN Decentralized Data Governance framework  in which a data control impact assessemnt is used to determine the type of risk and controls for stateful privacy and operational security.
 
-This framework is designed for human centric decentralized data Governance for -Business, Legal and Technical interoperability between people and digital services. From the social legal research the Consent Receipt specification and systems work has inspired.  This 'consent receipt' specification distinguishes  between the legal privacy regulation and human/analogue notice and consent requirements and electronic notice and consent requirements. 
+This technical framework is comprised of 5 specifications and contributes to multiple work efforts, the record fields are from ISO/IEC 29100 Privacy and Security Techniques, which is an open and free ISO/IEC standard and apart of/works with the ISO/IEC 27002 series, 
 
-Utilizing design principles for human trust and surveillance infrastructure, (ref: Royal Academy of Engineering) in which digital transparency is specified with equivalent notice and consent fields, like the digital identity of a PII Controller, the beneficial owner of data processing, the privacy rights contact end point and specified to support the operationalization of security and privacy infrastructure. 
+This specification is designed to support human centric decentralized data Governance for -Business, Legal and Technical interoperability between people and service infrastrucutre governed with digital identity management.
+Completing the work derviced from the Kanatara - Consent Receipt specification to scale human consent online with  eNotice and eConsent designed for digital identity governance with international and scalable standards.  
 
 In this regard, the scope of this specification is to outline the framework and point to other laws, standards and specifications that provide the detailed legal to technical policy information requirements required to operate the information structure specified.  Restricting the scope of this document to the technical. 
 
-Sections
-Anchored Notice Record 
-the digital record of a notice (analogue or digital) 
-Purpose of Processing Specification 
-ISO/IEC 27560 WD5 - (Consent Information Structure) for the eConsent Receipt
-Data Control, Protection and Treatment
+Specification Framework 
+*1. Anchored Notice Record the digital record of a notice (analogue or digital) 
+*2. Purpose of Processing Specification 
+* ISO/IEC 27560 WD5 - (Consent Information Structure) for the eConsent Receipt
+*3 Data Control, Protection and Treatment
 W3C Data Privacy Vocabulary Controls CG v0.5 (legal to machine readable eNotice and eConsent)
-Extensions
-Code of Conducts & Practice
-Transparency Code Framework 
-ToiP - Controller Credential
-Record and Receipt field inputs 
-sources, vocabularies, frameworks which are used for the field inputs
+*4 Extensions
+*5. Record and Receipt field inputs 
+* sources, vocabularies, frameworks which are used for the field inputs
 Specification Roadmap
 
-This specification aims to pull together existing information and make place holders for those components that are evolving or development. The full record and receipt information structure specification is framed with 5 sections which are being worked on by different community groups and efforts also introduced in this overview.
+This specification aims to pull together existing information and make place holders for those components that are evolving or in development. The full electronic record and receipt information structure specification is framed with 5 sections which are being worked on by different community groups and efforts also introduced in this overview.
 
+Spec Roadmap
 July 2022: Sect 1: ANCR Record Draft
 Aug 2022: Sect 2: Comment Inclusive on ISO/IEC 27560 
 Sep 2022: Sect 3: Draft 1 of 108+Profile with DPV
@@ -37,13 +33,11 @@ Nov 2022: Sect 5: Draft 1 Field Data 
 
 
 
-
 Section Summaries
 Section 1: Anchored Notice Record
 
-A key element missing in online only interactions is proof of informed or knowledgeable consent and the risks associated with this notice. The objective is to work through the fields in sections and to specify a way to generate consent receipts by both PII Principal and PII Controller. 
+A key element missing in online only interactions is personal data control transparency, which is implmented in this framework with 2FN, for proof of notice and evidence of informed or knowledgeable consent.   
 
-By working through the first ANCR Record section we aim to complete the first deliverable, in which a report will be made and the next section can be reviewed. The ANCR record starts at the beginning of the information structure to create an open record.  
 
 Section 1:  topics under review
 Dynamic Data Controls
