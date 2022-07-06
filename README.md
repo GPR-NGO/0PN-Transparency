@@ -1,11 +1,10 @@
 # 0PN-Framework
 Zero Public Network Framework
 
-The Zero Public Network is a framework for personal Data Control Transaprency and Accountability framework intended for public implmentation and use. Providing transparency over control, and is being designed to provide differential transparency signalling services. 
+The Zero Public Network is a framework for personal Data Control Transaprency and Accountability framework intended for public implmentation and use. Providing transparency over control, and is being designed to provide differential transparency signalling services.  
 
-, Control and Transparency complrised of multiple standards, and specifications which are being developed in different communities of interest. 
+It is an intrenational information structure architecture for electronic Notice and when required electronic Consent.
 
-It is an information structure architecture for electronic Notice and when required electronic Consent for personal data governance transparency and privacy risk. 
 
 OPN Framework Consists of 
 1. Data Governance & Risk Framework 
