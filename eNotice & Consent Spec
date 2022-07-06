@@ -12,13 +12,13 @@ Completing the work derviced from the Kanatara - Consent Receipt specification t
 In this regard, the scope of this specification is to outline the framework and point to other laws, standards and specifications that provide the detailed legal to technical policy information requirements required to operate the information structure specified.  Restricting the scope of this document to the technical. 
 
 Specification Framework 
-*1. Anchored Notice Record the digital record of a notice (analogue or digital) 
-*2. Purpose of Processing Specification 
-* ISO/IEC 27560 WD5 - (Consent Information Structure) for the eConsent Receipt
-*3 Data Control, Protection and Treatment
+1. Anchored Notice Record the digital record of a notice (analogue or digital) 
+2. Purpose of Processing Specification 
+- ISO/IEC 27560 WD5 - (Consent Information Structure) for the eConsent Receipt
+3 Data Control, Protection and Treatment
 W3C Data Privacy Vocabulary Controls CG v0.5 (legal to machine readable eNotice and eConsent)
-*4 Extensions
-*5. Record and Receipt field inputs 
+4  Extensions
+5 Record and Receipt field inputs 
 * sources, vocabularies, frameworks which are used for the field inputs
 Specification Roadmap
 
