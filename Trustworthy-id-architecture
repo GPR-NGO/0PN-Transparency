@@ -1,8 +1,39 @@
-The Benefits - Why eNotice and Consent makes trustworthy iD? 
-1.	 Security against misinformation -—Digital Transparency  (once standardized in electronic notice, reveals which organization is in control of digital identifiers and who the accountable person is in each organization. Address a key cyber security flaw in digital identity, which is surveillance/authentication of identifiers before authority is provided, or authorization. This security flaw is the key indicator to un-trustworthy digital id. 
-2.	Two Factor Notice – is a standardized notice usable for all data processing. E.g. a QR Code on a video surveillance sign, or with a differential transparency icon that displays a differential transparency signal online. When interacted with, a new record and receipt (mirrored record) is provided and signed by a notary. All two factor notices have 3 mandatory buttons, for consent, reject, and privacy rights/ dynamic data controls that are proportionate and reciprocal. 
-3.	The use of Zero Knowledge Proof (ZKP) – Rather that every service authenticating everyone's identifiers, a PII Principal can generate a micro-credential from a Controller’s Credential specific to the purpose of their relationship. This can be signed, notarized and attached to a consent token, so authentication can be achieved with ZKP rather than with digital identifiers using a protocol like GNAP (Oauth3). 
-4.	Inclusion, diversity, cultural considerations, low tech access and infrastructure challenges are addressed with the use of standards that provide a single rights user-interface for all services with standards – rather terms and conditions, for enforcing accessibility to data controls not dependent on the tech alone (aka un-trustworhty digital identity services)
+The Benefits – In reference to the Trustworhty ID Topic List.
+
+1.	 Security -  the prevalent security flaw native to digital identity, east to spot by surveillance and authentication before transparency over authority and authorization to identify / track and id every person, by every service provider.
+This security flaw is the source of misinformation - Digital Transparency  (once standardized in electronic notice reveals which stakeholder and the individual accountable for the control of digital identifiers.  this is the first step of assurance needed to address key cyber security flaw in digital identity, which is surveillance/authentication of identifiers before authority is provided, or authorized, (trust us id tech).  This security flaw is an easy to spot  indicator of un-trustworthy digital id. 
+2.	Two Factor Notice – is a standardized notice usable for all data processing. E.g.  a QR Code on a video surveillance sign, or with a differential transparency icon that displays a differential transparency signal online.  When interacted a new record and receipt is signed by a notary.  All two factor notices have 3 mandatory buttons, for consent, reject, and privacy rights/ dynamic data controls that are proportionate .  Each record links the notice and reciprocal. 
+3.	The records, if parsed for policy, can automatically generate  a personalized operational privacy policy, usable for decentralized data governance with a share and documented privacy state.  A state, defined by regulation and / or a  regulator approved  transparency code of conduct and certified eConsent codes of practice. 
+4.	Zero Knowledge Proof (ZKP) – Rather that every service authenticating everyone's identifiers, a PII Principal can generate a micro-credential from a Controller’s Credential specific to the purpose of their relationship. This once signed is notarized and attached with a two factor notice (2fN) and included in the micro eConsent token. As a result authorization can be achieved with ZKP before authentication of identifiers.  Called the AuthC protocol – for authorization from consent and scaled with an identity protocol like GNAP (Oauth3) or OpenID Connect. 
+5.	Inclusion, diversity, cultural considerations, low tech access and infrastructure challenges are addressed with the use of standards that provide a transparency signal that works with paper and signs, a rights user-interface for all services – rather than terms and conditions, that are different for each service and change frequently. The rights based access and controls  presented in differential transparency can be extended with the children’s design code of practice , providing children with digital rights access online.
+6. Exploring high trustworth id technology, there has to be the political will, to makie data processing transparnent with standards.  
+When a material change to state of privacy is detected, wether it is a change in purpose, security or beneficial ownership,  a new two-factor notice (2FN) to renew the eConsent is required.  The trustworhty id system would automatcally  restrict the processing of identifiers, or object to their use if detected, automatically, requiring a new digital trust consent token to be minted.
 
 Referernces
-1. 0PN Zero Privacy Network
+  Zero Public Network (0PN), Identity Trust Public Registry 
+  ISO/IEC 29100
+  ISO/IEC 27560
+  The Biggest Lie & Meaningful Consent
+  W3C DPV
+  Controller Credential – ToiP – Task force 
+  Blinding Identity Taxonomy 
+  Privacy as Expected Consent Gateway – NGI Funded project
+  
+  To supplement the Trustworhty ID Submission (and to share notes on Differential Transaprency)
+
+Trustworth Identity application explains a transparency and risks of digital trust are mitigated when a PII Principal (aka individiual) can own and control can be used for  transparency a person can trust.  It can enable a person with digital transparency (eNotice) over who processes their data through privacy laws, and in this way, supersede terms and conditions – (contract).    Even when agreeing to a contract with a 2FN (two factor eNotice) the rights to object and restrict data processing are always made available with a notarized contract micro-credential.  
+
+The eNotary records the eeceipt in a publically accessible ledger where, unlike the current id digital trust architectures, identifiers are blinded  and   only the credential (organization information/identifiers) can be publicly accessed and aggregated by individuals with micro-credentials used to access the ledger.   In this way, this trustworthy id architecure externalizes a ledger for discovery in context, providing an additional channel for authentication with verified credentials and consent. For transborder flows and consent based adequacy, the function  Know Your Customer (KYC) can be preceded by a know your business, data architectures for transborder flows of information with eConsent. Generating a notarized proof of notice, the individual can specify a consent (directed consent) and prove it witha a proof of notice record and a eConsent receipt.   Demonstrationg enhanced transparency through proof of the active privacy state.  
+ 
+Differential transparency is the signal used for an individual to themselves proof the interaction and control/negotiate its benefit. 
+
+Differential transparency is a signal to indicate whether a change in state of privacy has occurred with just a glance at an icon in the context of the service provided; not terms, conditions, vague, one size fits all contract based privacy policies.   
+
+Human centric (differential) transparency is a 'notify only when required' signal designed for concentric decentralized data portablility and control.  The signal is generated when the (notary signed) consent receipt tokens are  bound to the same (mirrored) proof of notice record (micro-credential).  The token controlled by the PII Pricniple is compared to the new token and a notification is generated only if there is change in the state of privacy and secuirty.  the Differenatial transparency signal icon / or linked signal - indicates a waiting notification  only when there is a change in the specified state of privacy. 
+
+This provides the point where an individual can negoation the control of recoerds and profiles, as well as consent to the benefits of processing personal data, with standarsd this can scale -  from analogue rights requests to dynamic data control over personal data pressing. E.g - a single button to restrict personal data processing by all technologies and sercvices in context at once. . 
+
+Like a bank account (acting as a notarized ledger) receipts are provided at the cash register, to make transparent the items and tbe amount being deducted in the ledger.   The record and receipts stack of standards, laws and vocabularies enaable automated transparency with smart rights that drive value exchage with smart contracts for digital trust. 
+
+
+
