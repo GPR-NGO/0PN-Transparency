@@ -10,14 +10,17 @@ This security flaw is the source of misinformation - Digital Transparency  (once
 When a material change to state of privacy is detected, wether it is a change in purpose, security or beneficial ownership,  a new two-factor notice (2FN) to renew the eConsent is required.  The trustworhty id system would automatcally  restrict the processing of identifiers, or object to their use if detected, automatically, requiring a new digital trust consent token to be minted.
 
 Referernces
-  Zero Public Network (0PN), Identity Trust Public Registry 
-  ISO/IEC 29100
-  ISO/IEC 27560
-  The Biggest Lie & Meaningful Consent
-  W3C DPV
-  Controller Credential – ToiP – Task force 
-  Blinding Identity Taxonomy 
-  Privacy as Expected Consent Gateway – NGI Funded project
+1. Lizar, M: Zero Public Network (0PN): eNotary and Consent Registrar System 
+2. Ortalda, A, Report on Adequacy of Notice & Consent:  
+3. ISO/IEC 29100 Privacy Framework 
+4. ISO/IEC 27560 Consent Record information structure (for consent receipts
+5. Council of Europe 108+
+6. Alternative to T&C’s; Call to Action: Open Notice, The Biggest Lie, Meaningful Consent, 
+7. W3C DPV
+8. Controller Credential – ToiP –Notice & ConsentTask force 
+9. Blinding Identity Taxonomy 
+10. Privacy as Expected Consent (Adequacy) Gateway – NGI Funded project
+
   
 Supplement to the Trustworhty ID Submission:
 
