@@ -1,9 +1,7 @@
 # 0pn-cntrl
-open source governance control transparency tools and frameworks works for the 
+open source governance control transparency tools and frameworks for trustworhty identity transparency and risk governance model standards which is applied here in a data control transparency assessment to records captured with this open source specification, 
 
-0PN - eNotary - id transparency and risk governance  model which applies a data control transparency assessment to records captured with this open source specification, 
-
-The framework for creating an eNotice record and eConsent receipt for checking the privacy state and performance of the controls. 
+This assessment framework is used to support creating an eNotice record and eConsent receipt for checking the privacy state and performance of the controls. 
 
 This involves capturing legally required  public privacy info about the control of personal information into a transparency record, or zero public network record (0PN-R)
 
