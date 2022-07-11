@@ -1,11 +1,11 @@
 # 0pn-cntrl
-open source governance control transparency tools and frameworks for trustworhty identity transparency and risk governance model standards which is applied here in a data control transparency assessment to records captured with this open source specification, 
+open source governance control transparency tools and frameworks for trustworhty identity transparency and risk governance model standards which is applied here in a data control transparency assessment. 
 
-This assessment framework is used to support creating an eNotice record and eConsent receipt for checking the privacy state and performance of the controls. 
+Presented here is the assessment framework is used to support  an eNotice record and eConsent receipt model for  monitoring the privacy state and testing the performance of the privacy state controls. 
 
-This involves capturing legally required  public privacy info about the control of personal information into a transparency record, or zero public network record (0PN-R)
+This involves capturing legal privacy info about the control of personal information which is required to be public, into what is simplified into a control (ctrl) transparency (tpcny)record (r) (ctrl-tpcny-r), or zero public network record (0PN-R)
 
-This repo’s objective is to specify eNotice Records and Receipts  : 
+This repo’s objective is to specify eNotice Records and Receipts: 
 1. Creating a Record
 2. Assessing the record 
 3. Using the record 
@@ -13,7 +13,6 @@ This repo’s objective is to specify eNotice Records and Receipts  :
 In accordance with  the 0PN - Data Control Governance Model & Impact Assessment 
 
 This open source repository for global privacy rights covers: 
-
 1. GPR - Notice Controller Record
 2. GPR - Notice Controller Record Assessment 
 3. GPR - Notice Controller Record and Consent Receipt 
