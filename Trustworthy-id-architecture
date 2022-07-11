@@ -10,16 +10,19 @@ This security flaw is the source of misinformation - Digital Transparency  (once
 When a material change to state of privacy is detected, wether it is a change in purpose, security or beneficial ownership,  a new two-factor notice (2FN) to renew the eConsent is required.  The trustworhty id system would automatcally  restrict the processing of identifiers, or object to their use if detected, automatically, requiring a new digital trust consent token to be minted.
 
 Referernces
-1. Lizar, M: Zero Public Network (0PN): eNotary and Consent Registrar  
-2. Ortalda, A, Lizar, M.  Report on Adequacy of Notice & Consent:  GDPR, PIPEDA and PCTF [https://diacc.ca/2022/03/31/adequacy-of-identity-governance-transparency/]
-3. ISO/IEC 29100 Security and Privacy Framework 
-4. ISO/IEC 27560 Consent Record information structure (for consent receipts
-5. Council of Europe 108+ International Privacy Legal Framework 
-6. Alternative to T&C’s; Call to Action: Open Notice, The Biggest Lie, Meaningful Consent, 
-7. W3C Data Privacy Vocabulary {
-8. Controller Credential – ToiP –Notice & ConsentTask force 
-9. Blinding Identity Taxonomy 
-10. Privacy as Expected Consent (Adequacy) Gateway – NGI Funded project
+1. Zero Public Network (0PN): eNotary and Consent Information Structure 2022 (WiP)
+2. Ortalda, A, Lizar, M, 2022 “Report on Adequacy of Notice & Consent: GDPR, PIPEDA, PCTF” [Published by Digital Identity Association of Canada](https://www.w3.org/community/dpvcg/) 
+3. ISO/IEC 29100 Privacy Framework [Download Free](https://www.standards-pdf-download.com/iso-iec-29100-2011-download-free.html)
+4. ISO/IEC 29184 Online privacy notices and consent (https://www.iso.org/standard/70331.html)
+5. ISO/IEC 27560 Consent Record information structure (for consent receipts(https://www.iso27001security.com/html/27560.html)
+    1. Kantara Initiative ‘ Consent Receipt Specification (now ISO/IEC 27560)
+6. Council of Europe 108+  International Privacy Legal Framework 
+    1. Background Article : https://iapp.org/news/a/what-does-the-newly-signed-convention-108-mean-for-u-k-adequacy/
+7. Alternative to T&C’s; Call to Action: Open Notice (https://www.w3.org/2012/dnt-ws/position-papers/23.pdf), The Biggest Lie, Meaningful Consent, eConsent
+8. [W3C Data Privacy Vocabulary CG](https://www.w3.org/community/dpvcg/)
+9. Controller Credential – ToiP –Notice & ConsentTask force 
+10. Blinding Identity Taxonomy (https://docs.kantarainitiative.org/Blinding-Identity-Taxonomy-Report-Version-1.0.pdf)
+11. Privacy as Expected Consent (Adequacy) Gateway – NGI Funded project[Online](https://privacy-as-expected.org/)
 
   
 Supplement to the Trustworhty ID Submission:
